@@ -1,0 +1,7 @@
+[theme]
+base = "Custom Theme"
+primaryColor = "#C92B2B"
+backgroundColor = "#D2EFCF"
+secondaryBackgroundColor = "#5FA46E"
+textColor = "#181818"
+font = "Serif"
